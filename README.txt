@@ -1,18 +1,24 @@
-# AngadPortfolio.github.io
+# Angad Portfolio
 
-**Personal Portfolio Website** — a static website showcasing personal projects, skills, and contact information, hosted via GitHub Pages.
+Personal portfolio website showcasing my projects, skills, and experience.  
+Built as a static site and hosted using **GitHub Pages**.
 
-👉 Live Demo: https://pesky-t6.github.io/AngadPortfolio.github.io/
-
----
-
-## 🚀 About
-
-This repository contains a **personal portfolio website** built with HTML, CSS, and JavaScript. The site highlights projects and skills and is deployed using GitHub Pages.
-
-It uses a responsive layout and includes custom assets stored in the `assets/` directory. The main entry point is `index.html`. :contentReference[oaicite:6]{index=6}
+🔗 Live Site: https://pesky-t6.github.io/AngadPortfolio.github.io/
 
 ---
 
-## 📂 Project Structure
+## About
+
+This repository contains the source code for my personal portfolio website.  
+The site is built using standard web technologies and is fully static, making it fast and easy to deploy.
+
+It serves as a central place to highlight:
+- Projects
+- Technical skills
+- Experience
+- Contact information
+
+---
+
+## Project Structure
 
