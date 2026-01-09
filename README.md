@@ -18,8 +18,6 @@ It serves as a central place to highlight:
 - Experience
 - Contact information
 
----
 
-## Project Structure
 
 
